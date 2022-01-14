@@ -1,7 +1,7 @@
 ---
 title: "ETC3550: Applied forecasting for business and economics"
 author: "Ch1. Getting started"
-date: "OTexts.org/fpp2/"
+date: "OTexts.org/fpp3/"
 fontsize: 14pt
 output:
   beamer_presentation:
